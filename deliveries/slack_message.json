@@ -1,0 +1,37 @@
+{
+  "channel": "#product-feedback",
+  "text": "Weekly Feedback Priorities \u2014 Top items (simulated)",
+  "blocks": [
+    {
+      "type": "header",
+      "text": {
+        "type": "plain_text",
+        "text": "Weekly Feedback Priorities \u2014 Demo"
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Top 3 this week:* \n1. Login takes forever \u2014 Acme Corp (Score 95)\n2. Considering switching to CompetitorX \u2014 Startup Co (Score 88)\n3. Payment failed on upgrade \u2014 Alpha Inc (Score 75)"
+      }
+    },
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "*Quick wins:* Fix billing error on upgrade flow. *Action:* Assign to backend team."
+      }
+    },
+    {
+      "type": "context",
+      "elements": [
+        {
+          "type": "mrkdwn",
+          "text": "Simulated Slack message saved locally. No Slack API or keys used."
+        }
+      ]
+    }
+  ],
+  "generated_at": "SIMULATED"
+}

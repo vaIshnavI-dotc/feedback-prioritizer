@@ -1,0 +1,8 @@
+customer_email,customer_company,mrr,tier,renewal_date,usage_drop
+john@acme.com,Acme Corp,5000,Growth,2025-12-15,False
+jane@beta.com,Beta LLC,2000,SMB,2025-11-01,True
+mark@alpha.com,Alpha Inc,8000,Enterprise,2026-03-01,False
+ops@delta.com,Delta Ops,1200,SMB,2025-10-10,True
+ceo@startup.com,Startup Co,50000,Enterprise,2025-11-20,True
+dev@integration.com,Integrate Ltd,900,SMB,2026-07-01,False
+user1@free.com,Individual,0,Free,2026-08-01,False

@@ -1,0 +1,11 @@
+raw_text,source,customer_email,created_at
+"Login takes forever — it is super frustrating",intercom,john@acme.com,2025-10-01T10:00:00Z
+"Takes forever to sign in, app lagging",zendesk,jane@beta.com,2025-10-02T11:00:00Z
+"Payment failed when I tried to upgrade",email,mark@alpha.com,2025-09-25T09:30:00Z
+"App crashes on iOS when uploading image",appstore,ios_user@mobile.com,2025-09-28T14:00:00Z
+"Need ability to export CSV from reports",survey,product_mgr@acme.com,2025-10-03T08:00:00Z
+"I can't use billing page, shows error",slack,ops@delta.com,2025-10-02T16:00:00Z
+"The dashboard is slow and charts lag",intercom,unknown,2025-10-03T10:00:00Z
+"I love the new theme — great work!",survey,user1@free.com,2025-10-03T12:00:00Z
+"Considering switching to CompetitorX, missing features",intercom,ceo@startup.com,2025-10-02T09:00:00Z
+"API webhook doesn't retry on failure",zendesk,dev@integration.com,2025-09-30T13:20:00Z
